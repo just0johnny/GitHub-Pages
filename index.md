@@ -13,16 +13,22 @@ just the programming aspect of it, but some of the many other aspects of making 
 
 Some of my **(recent)** favorite games are:
 1. *Persona 5 Royal*
-![Thumbnail for P5R.](https://assets1.ignimgs.com/2020/02/14/persona-5-royal---button-fin-1581716582492.jpg)
 > "Looking cool, Joker!"
 
+![Thumbnail for P5R.](https://assets1.ignimgs.com/2020/02/14/persona-5-royal---button-fin-1581716582492.jpg)
+
+
 2. *The Outlast Trials*
-![Thumbnail for Outlast Trials.](https://cdn.mobygames.com/6487844e-59ab-11ef-8f83-02420a000193.webp)
 > A very... graphic game.
 
+![Thumbnail for Outlast Trials.](https://cdn.mobygames.com/6487844e-59ab-11ef-8f83-02420a000193.webp)
+
+
 3. *Counter Strike 2*
-![Thumbnail for CS2.](https://cdn.egamersworld.com/cdn-cgi/image/width=690,quality=75,format=webp/uploads/blog/1696414021417.webp)
 > Very fun with friends!
+
+![Thumbnail for CS2.](https://cdn.egamersworld.com/cdn-cgi/image/width=690,quality=75,format=webp/uploads/blog/1696414021417.webp)
+
 
 ## My Programming Experience
 
