@@ -48,6 +48,6 @@ git commit
 
 (in case you didn't notice a lot of my goals are based on developing a game, or related based on what I've said [above](#about-me))
 
-[Click to say hi!](hi.md).
+[Click to say hi!](hi.md)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
